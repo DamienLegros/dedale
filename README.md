@@ -2,6 +2,8 @@
 
 Projet FoSyMa 2020-2021
 
+**Projet en binôme : Damien Legros et Cédric Cornède
+
 Projet d'introduction aux systèmes multi-agents effectué au cours du master 1 ANDROIDE de janvier à juin 2021 dans le cadre de l'UE FOSYMA.
 
 **Encadrement du projet : Cédric Herpson**

@@ -28,8 +28,8 @@ Dans le fichier *SignalBehaviour.java*, les agents envoient des informations par
 
 **Arbre : 2 ennemis et 3 agents**
 
-![Exemple sur Arbre]()
+![Exemple sur Arbre](https://github.com/DamienLegros/dedale-project/blob/main/arbre.gif?raw=true)
 
 **Cycle : 1 ennemi et 5 agents**
 
-![Exemple sur Cycle]()
+![Exemple sur Cycle](https://github.com/DamienLegros/dedale-project/blob/main/cycle.gif?raw=true)

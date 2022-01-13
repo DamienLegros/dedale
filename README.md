@@ -1,4 +1,4 @@
-# Project_Dedale
+# Projet Dedale
 
 Projet FoSyMa 2020-2021
 

@@ -6,8 +6,6 @@ Projet FoSyMa 2020-2021
 
 Projet d'introduction aux systèmes multi-agents effectué au cours du master 1 ANDROIDE de janvier à juin 2021 dans le cadre de l'UE FOSYMA.
 
-**Encadrement du projet : Cédric Herpson**
-
 Le projet consiste à développer des comportements pour des agents en Java à l'aide de la bibliothèque _GraphStream_ et _Jade_.
 Le code se base du code du projet [Dedale](dedale.gitlab.io/). Le but du projet est de créer des agents avec des comportements pour bloquer un agent ennemi sur le graphe en l'empêchant de se déplacer. Les agents n'ont pas de vision et trouve l'ennemi grâce à une trace orange autour de lui. Les agents se détectent entre eux en s'envoyant des signaux avec des distances limitées (sans destinataires précis, car les positions ne sont pas connues) et en mettant à jour leur carte et les positions connues des agents.
 
